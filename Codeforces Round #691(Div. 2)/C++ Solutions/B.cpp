@@ -1,26 +1,8 @@
-//ॐ
 #include <iostream>
-#include <stdio.h>
 #include <bits/stdc++.h>
-#include <algorithm>
-#include <vector>
-#include <set>
-#include <string>
-#include <stack>
-#include <queue>
-#include <math.h>
-
-#define ll long long
-#define pb push_back
 using namespace std;
 
 int main() {
-
-  #ifndef ONLINE_JUDGE
-    freopen("input.txt", "r", stdin);
-    freopen("output.txt", "w", stdout);
-  #endif
-
   ios_base::sync_with_stdio(false);
   cin.tie(NULL);
 
