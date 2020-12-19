@@ -1,1 +1,1 @@
-This folder contains solutions in C++ language.
+This folder contains solutions in Python language.
